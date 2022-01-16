@@ -1,2 +1,2 @@
 # C-Lang-Basics
- Unknown Things in C Language
+ Unknown Things(For Myself) in C Language
